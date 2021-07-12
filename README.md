@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @technikelli
 - 👀 I’m interested in ... video games, programming, and robotics
-- 🌱 I’m currently learning ... JavaScript
+- 🌱 I’m currently learning ... HTML/CSS, JavaScript, and Java
 - 💞️ I’m looking to collaborate on ... different coding projects
 - 📫 How to reach me ... you can message me @technikelli on ig 
 
